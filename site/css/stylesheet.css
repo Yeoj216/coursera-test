@@ -32,15 +32,21 @@ p {
 }
 #p1 {
   position: relative;
-  left: 65px;
+  
 }
 #p3 {
   position: relative;
-  left: 65px;
+  
 }
 #p2 {
   position: relative;
-  left: 65px;
+  
+}
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
 }
 
 /* Simple Responsive Framework. */
