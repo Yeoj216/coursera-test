@@ -1,7 +1,16 @@
 h1 {
   margin-bottom: 15px;
 }
+#color1 {
+  background-color:#A52DE4;
 
+}
+#color2 {
+  background-color: #B62EF8;
+}
+#color3 {
+  background-color: #D221F5;
+}
 p {
   border: 1px solid black;
   background-color: #A52A2A;
