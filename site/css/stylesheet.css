@@ -18,7 +18,7 @@ h1 {
 div#container {
   background-color: #00FFFF;
   position: relative;
-  top: 60px;
+  
 }
 p {
   border: 1px solid black;
@@ -45,7 +45,7 @@ p {
 .topright {
   position: absolute;
   top: 8px;
-  right: 16px;
+  right: 33.33%;
   font-size: 18px;
 }
 
